@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/birthday2"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="MORENIKEJI"
+        android:textColor="@android:color/white"
+        android:textStyle="bold|italic"
+        tools:layout_editor_absoluteX="109dp"
+        tools:layout_editor_absoluteY="48dp"
+        tools:textSize="24sp" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="HEALTH"
+        android:textColor="@android:color/white"
+        android:textStyle="bold|italic"
+        tools:layout_editor_absoluteX="261dp"
+        tools:layout_editor_absoluteY="296dp"
+        tools:textSize="14sp" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="AND PROSPERITY IN GOOD"
+        android:textColor="@android:color/white"
+        android:textStyle="bold|italic"
+        tools:layout_editor_absoluteX="197dp"
+        tools:layout_editor_absoluteY="262dp"
+        tools:textSize="14sp" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="I WISH YOU LONG LIFE"
+        android:textColor="@android:color/white"
+        android:textStyle="bold|italic"
+        tools:layout_editor_absoluteX="215dp"
+        tools:layout_editor_absoluteY="225dp"
+        tools:textSize="14sp" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="HAPPY BIRTHDAY"
+        android:textColor="@android:color/white"
+        android:textStyle="bold|italic"
+        tools:layout_editor_absoluteX="75dp"
+        tools:layout_editor_absoluteY="16dp"
+        tools:textSize="24sp" />
+</android.support.constraint.ConstraintLayout>
